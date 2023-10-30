@@ -163,7 +163,6 @@ return [
         /*
          * Application Service Providers...
          */
-        recca0120\LaravelTracy\ServiceProvider::class,
         App\Providers\AppServiceProvider::class,
         App\Providers\AuthServiceProvider::class,
         // App\Providers\BroadcastServiceProvider::class,
